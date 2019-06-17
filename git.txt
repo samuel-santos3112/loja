@@ -17,5 +17,6 @@ git push -u origin master
 
 Para adicionar mudanças a arquivos já upados
 git add "nome do arquivo alterado"
-git pull origin master
+git commit -m "descrição do que está sendo atualizado"
+git push -u origin master
 
