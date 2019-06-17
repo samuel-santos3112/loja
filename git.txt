@@ -8,3 +8,14 @@ Para mudar de repositório
 git remote add origin "link do repositório"
 git push -u origin master
 
+
+Para adicionar novos arquivos ao git 
+git add "nome do arquivo"
+git commit -m "descrição do que está sendo upado"
+git push -u origin master
+
+
+Para adicionar mudanças a arquivos já upados
+git add "nome do arquivo alterado"
+git pull origin master
+
