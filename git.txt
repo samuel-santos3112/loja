@@ -1,0 +1,10 @@
+Comandos básicos de Git 
+
+Para criar um repositório via terminal
+git remote add "nome do repositorio a ser criado"
+
+
+Para mudar de repositório
+git remote add origin "link do repositório"
+git push -u origin master
+
